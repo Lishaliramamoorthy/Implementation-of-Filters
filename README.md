@@ -164,6 +164,7 @@ iii) Using Gaussian Filter
 
 
 iv) Using Median Filter
+
 ![4](https://user-images.githubusercontent.com/75235402/167812043-4cc406d4-fc36-4cb3-83d6-c4ed25a75cda.jpg)
 
 
